@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="NJIT AFS" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="NJIT AFS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="is117/IS117-HTML-and-CSS-Introduction" local="$PROJECT_DIR$" web="/is117/IS117-HTML-and-CSS-Introduction" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
